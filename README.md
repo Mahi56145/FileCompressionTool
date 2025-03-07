@@ -1,5 +1,18 @@
 # C++ File Compression and Decompression Application
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: MAHIPAL
+
+*INTERN ID*:CT08PBA
+
+*DOMAIN*: C++ PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
+
 ## Overview
 This project is a C++ application that provides functionalities for compressing and decompressing files using multithreading to optimize performance. The application features a command-line interface for user interaction and demonstrates significant performance gains when handling large files.
 
@@ -64,3 +77,6 @@ To demonstrate the performance gains achieved through multithreading, you can us
 
 ## Conclusion
 This C++ application showcases the power of multithreading in file compression and decompression tasks, providing users with a fast and efficient tool for managing their files.
+
+Output:
+
