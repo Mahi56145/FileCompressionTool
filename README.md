@@ -80,3 +80,4 @@ This C++ application showcases the power of multithreading in file compression a
 
 Output:
 
+![Image](https://github.com/user-attachments/assets/b4e82d96-80fa-4228-8975-023467510361)
